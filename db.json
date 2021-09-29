@@ -1,0 +1,11 @@
+{
+    "HEROES": [
+      { "id": 1, "NOME": "MELIODAS", "PODER": "FULL COUNTER", "ANIME": "NANATSU NO TAIZAI" },
+      { "id": 2, "NOME": "LUFFY", "PODER": "GOMU GOMU NOMI", "ANIME": "ONE PIECE" },
+      { "id": 3, "NOME": "NARUTO", "PODER": "RASENGAN", "ANIME": "NARUTO" },
+      { "id": 4, "NOME": "SAITAMA", "PODER": "DESCONHECIDO", "ANIME": "ONE PUNCH MAN" },
+      { "id": 5, "NOME": "GOKU", "PODER": "SAYAJIN", "ANIME": "DRAGON BALL" }
+
+    ]
+    
+  }
